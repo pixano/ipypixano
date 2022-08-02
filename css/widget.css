@@ -1,0 +1,15 @@
+.custom-widget {
+  background-color: lightseagreen;
+  padding: 0px 2px;
+}
+  
+.main-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ }
+ .properties-panel {
+    flex: 0 0 220px;
+    overflow: auto;
+    max-height: 500px;
+}   
