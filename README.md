@@ -1,9 +1,6 @@
 
 # ipypixano
 
-[![Build Status](https://travis-ci.org//ipypixano.svg?branch=master)](https://travis-ci.org//ipypixano)
-[![codecov](https://codecov.io/gh//ipypixano/branch/master/graph/badge.svg)](https://codecov.io/gh//ipypixano)
-
 
 Pixano Element in jupyter widget
 
